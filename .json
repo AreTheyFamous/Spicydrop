@@ -1,6 +1,6 @@
 {
-    "room": "Community Name",
-    "author": "Author",
+    "room": "△ SPICYDROP LATVIA △",
+    "author": "Sedow",
     "icon": null,
     "css": null,
     "rules": {
@@ -16,11 +16,11 @@
     "ccc": {
         "admin": null,
         "ambassador": null,
-        "host": null,
-        "cohost": null,
-        "manager": null,
-        "bouncer": null,
-        "rdj": null,
+        "host": "#8B0000",
+        "cohost": "#DC143C",
+        "manager": "#008000",
+        "bouncer": "#666666",
+        "rdj": "#800080",
         "subscriber": null,
         "silversubscriber": null,
         "friend": null,
